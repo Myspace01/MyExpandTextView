@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandTextView">
+        <!--最多展示的行数-->
+        <attr name="maxLineCount" format="integer"/>
+        <!--省略文字的文案-->
+        <attr name="ellipsizeText" format="string"/>
+        <!--展开文案文字-->
+        <attr name="expandText" format="string"/>
+        <!--展开文案文字颜色-->
+        <attr name="expandTextColor" format="color"/>
+        <!--收起文案文字-->
+        <attr name="collapseText" format="string"/>
+        <!--收起文案文字颜色-->
+        <attr name="collapseTextColor" format="color"/>
+        <!--是否支持收起功能-->
+        <attr name="collapseEnable" format="boolean"/>
+        <!--是否添加展开收起的下划线-->
+        <attr name="underlineEnable" format="boolean"/>
+    </declare-styleable>
+</resources>
