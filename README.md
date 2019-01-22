@@ -18,3 +18,11 @@ TextView设置多文字时，实现展开收起功能
 
 ![image](https://github.com/Myspace01/MyExpandTextView/blob/master/%E6%94%B6%E8%B5%B7%E7%8A%B6%E6%80%81.png)
 
+
+
+
+
+
+
+
+
