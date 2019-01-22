@@ -11,7 +11,22 @@ TextView设置多文字时，实现展开收起功能
     是否支持收起功能             collapseEnable
     是否添加展开收起的下划线     underlineEnable
 
-
+第一步：
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+    
+    
+    第二步：
+    dependencies {
+	        implementation 'com.github.Myspace01:MyExpandTextView:-SNAPSHOT'
+	}
+    
+    
+    
 见下截图
 
 ![image](https://github.com/Myspace01/MyExpandTextView/blob/master/%E5%B1%95%E5%BC%80%E7%8A%B6%E6%80%81.jpg)
