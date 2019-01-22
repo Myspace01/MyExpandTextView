@@ -29,6 +29,8 @@ allprojects {
     
 见下截图
 
+![](https://github.com/Myspace01/MyExpandTextView/blob/master/video.mp4)
+
 ![image](https://github.com/Myspace01/MyExpandTextView/blob/master/%E5%B1%95%E5%BC%80%E7%8A%B6%E6%80%81.jpg)
 
 ![image](https://github.com/Myspace01/MyExpandTextView/blob/master/%E6%94%B6%E8%B5%B7%E7%8A%B6%E6%80%81.png)
