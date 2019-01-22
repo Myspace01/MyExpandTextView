@@ -12,9 +12,9 @@ TextView设置多文字时，实现展开收起功能
     是否添加展开收起的下划线     underlineEnable
 
 第一步：
+
 allprojects {
-		repositories {
-			...
+	repositories {
 			maven { url 'https://jitpack.io' }
 		}
 	}
