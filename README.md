@@ -21,8 +21,8 @@ allprojects {
     
     
     第二步：
-    dependencies {
-	        implementation 'com.github.Myspace01:MyExpandTextView:-SNAPSHOT'
+   dependencies {
+	        implementation 'com.github.Myspace01:MyExpandTextView:7da86402d1'
 	}
     
     
